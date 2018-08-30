@@ -131,6 +131,11 @@ a img:hover {
 main {
   padding-top: 149px;/* 固定ヘッダーの高さ調整 */
 }
+.wrap_page {
+  width: 1160px;
+  height: auto;
+  margin: 50px auto 0;
+}
 
 /* ヘッダー */
 header {
@@ -1080,6 +1085,9 @@ address {
 main {
   padding-top: 124px;
 }
+.wrap_page {
+  width: 860px;
+}
 header {
   width: 900px;
 }
@@ -1127,6 +1135,10 @@ nav > form {
 }
 header {
   width: 100%;
+}
+.wrap_page {
+  width: 100%;
+  padding: 10px;
 }
 .label_large {
   font-size: 11px;
